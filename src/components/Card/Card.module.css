@@ -1,0 +1,17 @@
+.main {
+  width: 300px;
+  border: 1px solid tomato;
+}
+
+.main.blue {
+  background-color: blue;
+}
+
+.main.red {
+  background-color: red;
+}
+
+.img {
+  width: 150px;
+  border: 1px dashed blue;
+}
